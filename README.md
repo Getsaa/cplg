@@ -6,4 +6,4 @@ To execute this, just download it and drag it to the LÖVE executable, and that'
 
 # Special Thanks
 
-vrld - The [Moonshine library](github.com/vrld/moonshine)
+vrld - The [Moonshine library](https://github.com/vrld/moonshine)
